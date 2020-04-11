@@ -38,7 +38,7 @@ The bot I built basically mimics a real person, by opening the WhatsAppWeb in th
 
 ## Made With
 
-* [Python](https://www.python.org/) - Linguagem de programação
+* [Python](https://www.python.org/) - Programming Language
 * [Selenium](https://www.selenium.dev/) - Browser Automation Tool
 
 ## Authors
