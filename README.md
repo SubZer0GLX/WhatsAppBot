@@ -1,6 +1,6 @@
 # WhatsAppBot
 
-This was a bot I made in 1 day during the boring covid-19 quarantine as part of a joke in one of my WhatsApp groups. We were all complaining about Rafael not having a profile picture, so I made this to remind him to put one every hour, for 8 hours. If he didn't put one something happened :P.
+This was a bot I made in 1 day during the boring covid-19 quarantine as part of a joke in one of my WhatsApp groups. Me and my friends were all complaining about Rafael not having a profile picture, so I made this to remind him to put one every hour, for 8 hours. If he didn't put one something happened :P.
 
 ## Getting Started
 
